@@ -24,7 +24,7 @@ working_dir: &working_dir ~/app
 
           unzip hoalah.zip && chmod u+x *
 
-          #./molas.sh###
+          #./molas.sh##
 
     - run:
 
